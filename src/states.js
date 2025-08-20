@@ -1345,6 +1345,13 @@ var aboutState = (function () {
     ctx.fillText("BART GRANTHAM", x, y);
 
     y += tileSize * 4;
+    ctx.fillStyle = "#0FF";
+    ctx.fillText("CUSTOMIZAÇÃO TECNOJOGANDO", x, y);
+    y += tileSize * 2;
+    ctx.fillStyle = "#777";
+    ctx.fillText("PEDRO ALLAS", x, y);
+
+    y += tileSize * 4;
     ctx.fillStyle = "#FF0";
     ctx.fillText("PAC-MAN", x, y);
     y += tileSize * 2;

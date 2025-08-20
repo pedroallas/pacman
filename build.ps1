@@ -15,12 +15,13 @@ $OUTPUT = "pacman.js"
 //  GNU General Public License for more details.
 
 // ==========================================================================
-// PAC-MAN
+// PAC-MAN - TECNOJOGANDO
 // an accurate remake of the original arcade game
 
 // Based on original works by Namco, GCC, and Midway.
 // Research by Jamey Pittman and Bart Grantham
 // Developed by Shaun Williams, Mason Borda
+// Customizado por Pedro Allas - Tecnojogando
 
 // ==========================================================================
 

@@ -10,12 +10,13 @@
 //  GNU General Public License for more details.
 
 // ==========================================================================
-// PAC-MAN
+// PAC-MAN - TECNOJOGANDO
 // an accurate remake of the original arcade game
 
 // Based on original works by Namco, GCC, and Midway.
 // Research by Jamey Pittman and Bart Grantham
 // Developed by Shaun Williams, Mason Borda
+// Customizado por Pedro Allas - Tecnojogando
 
 // ==========================================================================
 
@@ -197,6 +198,9 @@ var getGameDescription = (function () {
       "",
       "REMAKE:",
       "SHAUN WILLIAMS",
+      "",
+      "CUSTOMIZAÃ‡ÃƒO TECNOJOGANDO:",
+      "PEDRO ALLAS",
     ],
     [
       "ORIGINAL ARCADE ADDON:",
@@ -10845,6 +10849,13 @@ var aboutState = (function () {
     ctx.fillText("JAMEY PITTMAN", x, y);
     y += tileSize * 2;
     ctx.fillText("BART GRANTHAM", x, y);
+
+    y += tileSize * 4;
+    ctx.fillStyle = "#0FF";
+    ctx.fillText("CUSTOMIZAÃ‡ÃƒO TECNOJOGANDO", x, y);
+    y += tileSize * 2;
+    ctx.fillStyle = "#777";
+    ctx.fillText("PEDRO ALLAS", x, y);
 
     y += tileSize * 4;
     ctx.fillStyle = "#FF0";

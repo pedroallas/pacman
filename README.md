@@ -1,9 +1,19 @@
-Pac-Man
-=======
+Pac-Man - Tecnojogando
+======================
 
-A historical tribute and accurate remake of the original Pac-Man arcade game
+Uma versão personalizada do histórico remake fiel do jogo arcade original Pac-Man
 
-Inspired by [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html)
+**🎮 Customizado por Pedro Allas - Tecnojogando**
+
+Baseado no trabalho original de Shaun Williams
+Inspirado em [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html)
+
+## 🚀 Alterações da Versão Tecnojogando
+
+- ✅ Título personalizado: "PACMAN - TECNOJOGANDO"
+- ✅ Interface em português brasileiro
+- ✅ Créditos atualizados
+- ✅ Script de build para Windows (PowerShell)
 
 ### Under Construction
 
@@ -11,7 +21,10 @@ Inspired by [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacm
 - Cutscenes
 - 2 Player switch-off
 
-Contact me at shaunewilliams@gmail.com
+## 📧 Contatos
+
+**Versão Original**: shaunewilliams@gmail.com  
+**Versão Tecnojogando**: pedro.allas@tecnojogando.com.br
 
 License
 -------

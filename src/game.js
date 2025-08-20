@@ -38,6 +38,9 @@ var getGameDescription = (function () {
       "",
       "REMAKE:",
       "SHAUN WILLIAMS",
+      "",
+      "CUSTOMIZAÇÃO TECNOJOGANDO:",
+      "PEDRO ALLAS",
     ],
     [
       "ORIGINAL ARCADE ADDON:",
